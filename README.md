@@ -3,23 +3,15 @@
 
 This repository contains a group financial analysis comparing Starbucks and Dunkin'. It includes the final PDF report and the Excel workbook used for calculations and tables.
 
+**View the interactive analysis online:** [https://bchopra785.github.io/starbucks-dunkin-financial-analysis/](https://bchopra785.github.io/starbucks-dunkin-financial-analysis/)
+
 Project objective
 - Compare financial performance and position of Starbucks and Dunkin' using common-size statements, cash flow analysis, and DuPont decomposition. Identify drivers of ROE/ROA and highlight material differences in margins, asset utilization, and leverage.
 
 Files
 - `Starbucks vs. Dunkins - Report.pdf` — final report summarizing methodology, analysis, findings, and recommendations.
-- `Starbucks vs. Dunkins Project - Statements (etc).xlsx` — source workbook. Key sheets:
-
-  - DUNK ComparativeCommon-size Inc — Dunkin' common-size income statement comparisons
-  - DUNK ComparativeCommon Size Bal — Dunkin' common-size balance sheet comparisons
-  - DUNK Statement of Stockholders — Dunkin' statement of stockholders
-  - DUNK Statement of Cash Flows — Dunkin' cash flow statement and analysis
-  - DUNK Extended DuPont AnalysisBe — Dunkin' extended DuPont decomposition and component analysis
-  - STAR CompartiveCommon Size Bala — Starbucks common-size balance comparisons
-  - STAR ComparativeCommon Size Inc — Starbucks common-size income statement comparisons
-  - STAR Statement of Cash Flows — Starbucks cash flow statement and analysis
-  - STAR Statement of Stockholders — Starbucks statement of stockholders
-  - STAR Extended DuPont AnalysisBe — Starbucks extended DuPont decomposition and component analysis
+- `Starbucks vs. Dunkins Project - Statements (etc).xlsx` — source workbook. Key sheets listed below.
+- `docs/` — interactive HTML sheets and the website index for GitHub Pages (see link above)
 
 Methodology (summary)
 - Common-size financial statements: convert income statement and balance sheet line items to percentages of sales and assets to enable direct comparison across firms and periods.
@@ -40,7 +32,6 @@ How to view
 - Open `Starbucks vs. Dunkins Project - Statements (etc).xlsx` in Microsoft Excel (recommended) or LibreOffice Calc to view raw tables, formulas, and supporting calculations.
 
 Contributors
-- Team members: replace with actual names and roles.
+- Team members: Bhoomika Chopra, Olivia Bennett, Weihao Lei, Shiqi Min,Tho Le ,Kevin Cui
 
-If you want, I can now update the `Contributors` section with the real names (tell me the names and roles) and/or refine the Key findings further after you confirm which years or metrics you'd like highlighted.
 
