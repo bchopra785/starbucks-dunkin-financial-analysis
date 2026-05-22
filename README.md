@@ -28,8 +28,9 @@ Notes on numbers
 - The percentages and values above were taken directly from the report's DuPont and ratio analysis sections. Refer to the PDF for full tables, context, and appendices with calculations.
 
 How to view
-- Open `Starbucks vs. Dunkins - Report.pdf` in a PDF viewer to read the narrative and high-level findings.
-- Open `Starbucks vs. Dunkins Project - Statements (etc).xlsx` in Microsoft Excel (recommended) or LibreOffice Calc to view raw tables, formulas, and supporting calculations.
+- Open the live site here: [https://bchopra785.github.io/starbucks-dunkin-financial-analysis/](https://bchopra785.github.io/starbucks-dunkin-financial-analysis/)
+- Use the site index to open each HTML sheet directly in your browser.
+- Download `Starbucks vs. Dunkins - Report.pdf` or `Starbucks vs. Dunkins Project - Statements (etc).xlsx` from the repo if you want the original files.
 
 Contributors
 - Team members: Bhoomika Chopra, Olivia Bennett, Weihao Lei, Shiqi Min,Tho Le ,Kevin Cui
